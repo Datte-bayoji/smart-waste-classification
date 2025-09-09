@@ -37,3 +37,4 @@ To run application
 GitHub: Datte-bayoji
 
 Email: skrollins03@gmail.com
+"# smart-waste-classification" 
