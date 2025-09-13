@@ -38,3 +38,6 @@ GitHub: Datte-bayoji
 
 Email: skrollins03@gmail.com
 "# smart-waste-classification" 
+
+INTERNSHIP PROJECT REPORT
+https://drive.google.com/file/d/1VyrPWHApMyJM-uSffHIjnlZUJ1OM7lju/view?usp=sharing
